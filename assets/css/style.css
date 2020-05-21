@@ -517,7 +517,8 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f3f9fd;
+  /*background: #f3f9fd;*/
+  background: rgba(16, 0, 255, 0.38);
   padding: 10px 0;
   text-align: center;
 }
