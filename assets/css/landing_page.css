@@ -6,7 +6,9 @@
 /*
  * Custom translucent site header
  */
-
+bg-light {
+    background-color: #099e9026!important;
+}
 .site-header {
   background-color: rgba(112, 4, 156, 0.98);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
